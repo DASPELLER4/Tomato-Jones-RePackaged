@@ -15,4 +15,4 @@ That's it, I'll also leave the launcher.bat for you if you want to repackage it 
 
 <br>
 
-FINAL STEP, VERY IMPORTANT: enjoy :)
+3. FINAL STEP, VERY IMPORTANT: enjoy :)
