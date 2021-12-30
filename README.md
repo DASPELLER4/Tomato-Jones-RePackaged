@@ -8,7 +8,7 @@ This is just a repackaged .bat file with the contents:
 
     Ball.exe ..\\_data\\chapters\\SS.blend
 
-That's it, I'll also leave the launcher.bat for you if you want to repackage it into an exe to avoid malware, I used https://www.majorgeeks.com/files/details/bat_to_exe_converter.html for the repackager
+While there is no exe, I would reccommend you to either run the launcher.bat straight from wine, won't work in steam but I can't safely reccommend you a bat to exe converter, work is under way for a stdlib.h edition of the exe that I make myself so there WON'T be malware this time, I'm very sorry for not verifying the safety of that file.
 
 # Installation
 1. copy the .exe file into the system folder in the Tomato Jones steam directory, if using the release remove the first dot in the filename and add a space in place.
