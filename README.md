@@ -3,7 +3,7 @@
 update on the virus situation, the file is now safe, it is the c file compiled but virus total still has warnings, if you want, compile the file yourself
 New Tomato Jones Exe for Linux users on wine <a href="https://www.virustotal.com/gui/file/43c7517f9b8226020f3c65bc8654f9ce0bc43f72b1ab234622a2ded140807009?nocache=1">VirusTotal</a>
 
-This is just a repackaged .bat file with the contents:
+This is just a sys call with the contents:
 
     Ball.exe ..\\_data\\chapters\\SS.blend
 
