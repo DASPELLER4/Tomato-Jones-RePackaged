@@ -8,7 +8,7 @@ This is just a repackaged .bat file with the contents:
 That's it, I'll also leave the launcher.bat for you if you want to repackage it into an exe to avoid malware, I used https://www.majorgeeks.com/files/details/bat_to_exe_converter.html for the repackager
 
 # Installation
-1. copy the .exe file into the system folder in the Tomato Jones steam directory
+1. copy the .exe file into the system folder in the Tomato Jones steam directory, if using the release remove the first dot in the filename and add a space in place.
 
 2. <h2>If using other versions of the game like tomato jones 2 or 3</h2>
    rename the exe to Tomato Jones II.exe or Tomato Jones III.exe
