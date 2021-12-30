@@ -19,3 +19,7 @@ While there is no exe, I would reccommend you to either run the launcher.bat str
 <br>
 
 3. FINAL STEP, VERY IMPORTANT: enjoy :)
+
+# Make yourself
+
+Compile the Tomato Jones.c file in any c compiler you want as long as it outputs a windows .exe file, name the output to Tomato Jones.exe or Tomato Jones II.exe or Tomato Jones III.exe according to your game version and copy and replace the file in the steam Tomato Jones/system directory
