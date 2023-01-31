@@ -1,6 +1,15 @@
-# Tomato-Jones-RePackaged
+<h3>Easier solution by ZungBang on ProtonDB:</h3>
 
-New Tomato Jones Executable for support with wine
+Switch to experimental, Set launch options, Changed configuration
+
+```../_data/chapters/S.blend```
+
+Replaced Tomato Jones.exe with a symlink to Ball.exe
+
+
+<hr>
+
+# Tomato-Jones-RePackaged
 
 This is just a sys call with the contents:
 
@@ -19,6 +28,3 @@ This is just a sys call with the contents:
 # Make yourself
    
 Compile the Tomato Jones.c file in any c compiler you want as long as it outputs a windows .exe file, name the output to Tomato Jones.exe or Tomato Jones II.exe or Tomato Jones III.exe according to your game version and copy and replace the file in the steam Tomato Jones/system directory
-
-update on the virus situation, the file is now safe, it is the c file compiled but virus total still has warnings, if you want, compile the file yourself
-New Tomato Jones Exe for Linux users on wine <a href="https://www.virustotal.com/gui/file/43c7517f9b8226020f3c65bc8654f9ce0bc43f72b1ab234622a2ded140807009?nocache=1">VirusTotal</a>
